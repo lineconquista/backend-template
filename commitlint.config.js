@@ -1,4 +1,4 @@
-const gitEmoji = /(:([a-z]+|[-][a-z]+)+:)\s/
+const gitEmoji = /(:([a-z]+|([-]|[_])[a-z]+)+:)\s/
 const subject = /([^:].+)/
 
 // eslint-disable-next-line no-undef
