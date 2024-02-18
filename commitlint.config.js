@@ -70,7 +70,7 @@ module.exports = {
                 ':chart_with_upwards_trend:': 'Add or update analytics or track code.',
                 ':recycle:': 'Refactor code.',
                 ':heavy_plus_sign:': 'Add a dependency.',
-                ':heayy_minus_sign:': 'Remove a dependency.',
+                ':heavy_minus_sign:': 'Remove a dependency.',
                 ':wrench:': 'Add or update configuration files.',
                 ':hammer:': 'Add or update development scripts.',
                 ':globe_with_meridians:': 'Internationalization and localization.',
