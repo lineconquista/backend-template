@@ -37,7 +37,7 @@ module.exports = {
         'body-max-line-length': [2, 'always', 100],
         'footer-leading-blank': [2, 'always'],
         'footer-max-line-length': [2, 'always', 100],
-        'header-max-length': [2, 'always', 70],
+        'header-max-length': [2, 'always', 100],
         'header-trim': [2, 'always'],
         'header-case': [2, 'always', 'lower-case'],
         'header-match-team-pattern': [2, 'always'],
